@@ -1,5 +1,10 @@
-# Overview
+# Demo Host
+
 A simple static website hosted using GitHub Pages.
+
+## Overview
+
+This project was created as a beginner-friendly demonstration of how to host a website directly from a GitHub repository using GitHub Pages.
 
 ## Features
 
