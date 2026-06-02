@@ -28,13 +28,9 @@ Demo-Host/
 
 ## Live Demo
 
-After enabling GitHub Pages, the project will be available at:
-
 ```text
-https://your-username.github.io/Demo-Host/
+https://akibul-hasan-anik.github.io/Demo-Host/
 ```
-
-Replace `your-username` with your GitHub username.
 
 ## Learning Purpose
 
